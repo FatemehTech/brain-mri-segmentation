@@ -10,8 +10,6 @@ Deep learning-based brain tumor segmentation on MRI scans using a U-Net architec
 
 ## Project Overview
 
-## Overview
-
 This project was developed as part of my learning journey in Medical Image Analysis and Deep Learning. It focuses on brain tumor segmentation from MRI scans using a U-Net-based deep learning model implemented in PyTorch.
 
 A pre-trained U-Net model is used to generate tumor segmentation masks from brain MRI slices and compare the predictions with the corresponding ground truth annotations.
