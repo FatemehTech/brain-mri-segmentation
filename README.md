@@ -101,7 +101,7 @@ Medical-Segmentation-Project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/brain-mri-segmentation.git
+git clone https://github.com/FatemehTech/brain-mri-segmentation.git
 cd brain-mri-segmentation
 ```
 
@@ -195,4 +195,4 @@ allowing direct visual comparison of segmentation performance.
 
 [Fatemeh Aghajani]
 Computer Vision & Medical Image Analysis Enthusiast
-GitHub:[https://github.com/your-username]
+GitHub:[https://github.com/FatemehTech]
