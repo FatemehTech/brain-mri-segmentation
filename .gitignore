@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+Task01_BrainTumour/
+
+# Trained Models
+*.pt
+
+# OS Files
+.DS_Store
+Thumbs.db
